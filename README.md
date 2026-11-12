@@ -11,5 +11,5 @@ runtime, with the .NET 10.0.10 reference assemblies, plus Roslyn's completion, s
 hover for the editor. Built with `pnpm csharp:runtime:build` (.NET SDK 10.0.302, packages
 locked); the build is reproducible.
 
-- SHA-256: ``
-- Bytes: 
+- SHA-256: `fa0fc17d81add1bd12e78cdd42935c23be4b57f233f89b1427eeac49402f4495`
+- Bytes: 15389005
